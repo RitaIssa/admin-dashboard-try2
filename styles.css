@@ -209,6 +209,10 @@ button:hover{
     align-items: center;
 }
 
+.trending{
+    margin-top: -20px;
+}
+
 h4{
     font-size: 20px;
 }
