@@ -105,7 +105,7 @@ h6{
 }
 
 .right{
-    margin-left: 865px;
+    margin-left: 855px;
 }
 
 button{
@@ -149,6 +149,7 @@ button:hover{
     padding: 20px;
     color: rgb(153, 152, 152);
     margin-bottom: 20px;
+    box-shadow: 2px 2px 5px rgba(173, 173, 173, 0.9);
 }
 
 .icons{
@@ -176,6 +177,7 @@ button:hover{
     padding: 10px;
     color: rgb(153, 152, 152);
     grid-row: 1/2;
+    box-shadow: 2px 2px 5px rgba(173, 173, 173, 0.9);
 }
 
 .a-cards{
@@ -196,6 +198,7 @@ button:hover{
     padding: 10px;
     color: rgb(153, 152, 152);
     grid-row: 2/3;
+    box-shadow: 2px 2px 5px rgba(173, 173, 173, 0.9);
 }
 
 .trending-icons{
@@ -215,6 +218,14 @@ button:hover{
 
 h4{
     font-size: 20px;
+}
+
+h6{
+    width: 140px;
+}
+
+h3{
+    width: 230px;
 }
 
 @media only screen and (min-width: 500px){
